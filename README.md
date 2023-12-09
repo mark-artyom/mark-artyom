@@ -20,9 +20,13 @@
 - Creating advertising creatives for contextual advertising. Design of graphics and Rich content for marketplaces. Design of social networks.
 - `Photoshop` `ChatGPT` `Midjiorney` `Canva` `CapCut`
 
+---
+
 ### Work Experience
 
-At the moment, my professional activity is related to retail trade, warehouse logistics and international transportation. In my free time, I study design and programming. I have practical experience in the development and design of websites and mobile applications in the implementation of educational projects. I study programming and design on Coursera, Stepik, Codewars, Domestika and other platforms. In the future, I will work in the field of digital technologies.
+At the moment, my professional activity is related to retail trade, warehouse logistics and international transportation. In my free time, I study design and programming. I have practical experience in the development and design of websites and mobile applications in the implementation of educational projects. I study programming and design on Coursera, [Stepik](https://stepik.org/users/518533758/profile), [Codewars](https://www.codewars.com/users/mark-artiom), Domestika and other platforms. In the future, I will work in the field of digital technologies.
+
+---
 
 ### Education
 
@@ -37,10 +41,10 @@ At the moment, my professional activity is related to retail trade, warehouse lo
 
 ### Languages
 
-:us: - English: `Intermediate`
+English: `Intermediate`
 
-:ru: - Russian: `Native`
+Russian: `Native`
 
 ---
-
-**Discord:** [mark.artyom](https://discord.com/users/1083479219415298068/) / **Telegram:** [mark_artyom](https://t.me/mark_artyom/) / **Instagram:** [mark.artyom](https://www.instagram.com/mark.artyom/)
+### Contacts
+|| **Discord:** [mark.artyom](https://discord.com/users/1083479219415298068/) || **Telegram:** [mark_artyom](https://t.me/mark_artyom/) || **Instagram:** [mark.artyom](https://www.instagram.com/mark.artyom/) ||
