@@ -47,4 +47,4 @@ Russian: `Native`
 
 ---
 ### Contacts
-|| **Discord:** [mark.artyom](https://discord.com/users/1083479219415298068/) || **Telegram:** [mark_artyom](https://t.me/mark_artyom/) || **Instagram:** [mark.artyom](https://www.instagram.com/mark.artyom/) ||
+|| **Discord:** [mark.artyom](https://discord.com/users/1083479219415298068/) || **Telegram:** [mark_artyom](https://t.me/mark_artyom/) || **Instagram:** [mark.artyom](https://www.instagram.com/mark.artyom/) || **E-mail:** [mark.artyom.dev@yandex.by](mailto:mark.artyom.dev@yandex.by) ||
