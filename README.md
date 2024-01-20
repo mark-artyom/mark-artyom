@@ -60,6 +60,9 @@ classDiagram
 ## Work Experience
 At the moment, my professional activity is related to retail and warehouse logistics.  I have been interested in programming since 2022 and study it in my free time on Coursera, Codewars, Stepik and other platforms.  I have practical experience in developing educational projects. In the future, I will work in the field of digital technology.
 
+[![alt text](stepik.svg)](https://stepik.org/users/518533758/profile)
+[![alt text](codewars.svg)](https://www.codewars.com/users/mark-artiom)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mark-artyom&layout=compact)
 
 ## Education
