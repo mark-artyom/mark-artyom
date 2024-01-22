@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=800&size=40&duration=8000&pause=1000&color=316DCA&center=true&vCenter=true&random=false&width=800&height=150&lines=I'm+a+Pull+Stack+Developer.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=800&size=30&duration=1&pause=10000&color=316DCA&center=true&vCenter=true&random=false&width=800&lines=I+just+pull+things+off+the+Internet+and+put+it+into+my+code.)](https://git.io/typing-svg)
-
+<!--
 ```mermaid
 classDiagram
     Skills --|>Frontend
@@ -56,7 +56,7 @@ classDiagram
         Micro service architecture(RabbitMQ)
     }
 ```
-
+-->
 ## Work Experience
 At the moment, my professional activity is related to retail and warehouse logistics.  I have been interested in programming since 2022 and study it in my free time on Coursera, Codewars, Stepik and other platforms.  I have practical experience in developing educational projects. In the future, I will work in the field of digital technology.
 
